@@ -1,1 +1,0 @@
-export const DEFAULT_VIEWPORT_HEIGHT = 660;
